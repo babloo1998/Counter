@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+*{
+  background:#60C2F3;
+  margin: 0px;
+}
+h2{
+  color:white;
+  font-size: 45px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
